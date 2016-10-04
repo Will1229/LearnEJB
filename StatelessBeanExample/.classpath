@@ -12,5 +12,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/egaozhi/wildfly-10.0.0.Final/bin/client/jboss-client.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
